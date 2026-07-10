@@ -12,7 +12,7 @@ A command-line interface (CLI) and module for generating secure, customizable pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/secure-password-generator.git
+   git clone https://github.com/andrefejao28-lab/secure-password-generator.git
    cd secure-password-generator
    ```
 2. Install dependencies:
