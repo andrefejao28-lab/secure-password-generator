@@ -1,0 +1,25 @@
+{
+  "name": "secure-password-generator",
+  "version": "1.0.0",
+  "description": "A secure password generator with CLI and module capabilities.",
+  "main": "index.js",
+  "bin": {
+    "generate-password": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security",
+    "cli",
+    "nodejs"
+  ],
+  "author": "André Luiz Corrêa",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
